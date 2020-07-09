@@ -10,8 +10,6 @@
     <modules>
         <module>api-commons</module>
         <module>user-service-8081</module>
-        <module>book-service-8082</module>
-        <module>user-service-8081</module>
         <module>order-service-8083</module>
         <module>book-service-8082</module>
     </modules>
