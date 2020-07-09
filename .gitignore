@@ -68,9 +68,4 @@ hs_err_pid*
 .idea
 *.iml
 
-.idea/.gitignore
-.idea/inspectionProfiles/
-.idea/misc.xml
-.idea/vcs.xml
-pom.xml
-spring-cloud-alibaba-bookstore.iml
+
